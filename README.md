@@ -9,6 +9,6 @@ This is a Movie comparison app which gives the user, statistics about the movies
 
 # Screenshots 
 
-<img src = "screenshots/landingpage.png>
+<img src = "screenshots/landingpage.png">
 <img src = "screenshots/autocomplete.png">
 <img src = "screenshots/comparison.png">
