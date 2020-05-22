@@ -9,6 +9,18 @@ This is a Movie comparison app which gives the user, statistics about the movies
 
 # Screenshots 
 
+## Landing page
 <img src = "screenshots/landingpage.png">
+
+## Autocomplete Widget
 <img src = "screenshots/autocomplete.png">
+
+## Comparison Statistics
 <img src = "screenshots/comparison.png">
+
+# Built with 
+
+1. HTML
+2. Bulma CSS Library
+3. Javascript
+4. OMDb API
