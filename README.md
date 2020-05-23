@@ -24,3 +24,7 @@ This is a Movie comparison app which gives the user, statistics about the movies
 2. Bulma CSS Library
 3. Javascript
 4. OMDb API
+
+# Link to the app 
+
+https://pinkman7009.github.io/Movie-Battle-App/
